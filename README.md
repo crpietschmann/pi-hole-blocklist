@@ -5,3 +5,6 @@ This is a collection of Pi-Hole Blocklists for different sets of domains. It's b
 Please feel free to use the following blocklists you feel will help you block the specific websites / services you wish to blcok using  your Pi-Hole instance.
 
 Enjoy!
+
+[Messaging](messaging) | [Social Media](social-media)
+
