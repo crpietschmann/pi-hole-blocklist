@@ -1,0 +1,17 @@
+# Pi-hole Blocklist to block Facebook domains
+# ----------------------------------------------------------
+# Source: https://github.com/crpietschmann/pi-hole-blocklist
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 facebook.com
+0.0.0.0 business.facebook.com
+0.0.0.0 l.facebook.com
+0.0.0.0 web.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 developers.facebook.com
+0.0.0.0 apps.facebook.com
+0.0.0.0 staticxx.facebook.com
+0.0.0.0 fr-fr.facebook.com
+0.0.0.0 de-de.facebook.com

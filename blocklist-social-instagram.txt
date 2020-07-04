@@ -1,0 +1,11 @@
+# Pi-hole Blocklist to block Instagram domains
+# ----------------------------------------------------------
+# Source: https://github.com/crpietschmann/pi-hole-blocklist
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 instagram.com
+0.0.0.0 l.instsagram.com
+0.0.0.0 help.instagram.com
+0.0.0.0 business.instagram.com

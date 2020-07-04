@@ -1,0 +1,17 @@
+# Pi-hole Blocklist to block Twitter domains
+# ----------------------------------------------------------
+# Source: https://github.com/crpietschmann/pi-hole-blocklist
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 twitter.com
+0.0.0.0 tweetdeck.twitter.com
+0.0.0.0 api.twitter.com
+0.0.0.0 publish.twitter.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 help.twitter.com
+0.0.0.0 mobile.twitter.com
+0.0.0.0 platform.twitter.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 support.twitter.com

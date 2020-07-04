@@ -1,0 +1,17 @@
+# Pi-hole Blocklist to block Snapchat domains
+# ----------------------------------------------------------
+# Source: https://github.com/crpietschmann/pi-hole-blocklist
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 snapchat.com
+0.0.0.0 ads.snapchat.com
+0.0.0.0 accounts.snapchat.com
+0.0.0.0 geofilters.snapchat.com
+0.0.0.0 forbusiness.snapchat.com
+0.0.0.0 business.snapchat.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 businesshelp.snapchat.com
+0.0.0.0 snapcamera.snapchat.com
+0.0.0.0 support.snapchat.com
