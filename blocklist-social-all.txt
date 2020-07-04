@@ -1,0 +1,89 @@
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: FACEBOOK
+# ----------------------------------------------------------
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/blocklist-social-facebook.txt
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 facebook.com
+0.0.0.0 business.facebook.com
+0.0.0.0 l.facebook.com
+0.0.0.0 web.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 developers.facebook.com
+0.0.0.0 apps.facebook.com
+0.0.0.0 staticxx.facebook.com
+0.0.0.0 fr-fr.facebook.com
+0.0.0.0 de-de.facebook.com
+ 
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: INSTAGRAM
+# ----------------------------------------------------------
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/blocklist-social-instagram.txt
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 instagram.com
+0.0.0.0 l.instsagram.com
+0.0.0.0 help.instagram.com
+0.0.0.0 business.instagram.com
+ 
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: SNAPCHAT
+# ----------------------------------------------------------
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/blocklist-social-snapchat.txt
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 snapchat.com
+0.0.0.0 ads.snapchat.com
+0.0.0.0 accounts.snapchat.com
+0.0.0.0 geofilters.snapchat.com
+0.0.0.0 forbusiness.snapchat.com
+0.0.0.0 business.snapchat.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 businesshelp.snapchat.com
+0.0.0.0 snapcamera.snapchat.com
+0.0.0.0 support.snapchat.com
+ 
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: TIKTOK
+# ----------------------------------------------------------
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/blocklist-social-tiktok.txt
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 tiktok.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 getstarted.tiktok.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 careers.tiktok.com
+0.0.0.0 business.tiktok.com
+0.0.0.0 newsroom.tiktok.com
+0.0.0.0 t.tiktok.com
+0.0.0.0 activity.tiktok.com
+0.0.0.0 support.tiktok.com
+ 
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: TWITTER
+# ----------------------------------------------------------
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/blocklist-social-twitter.txt
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 twitter.com
+0.0.0.0 tweetdeck.twitter.com
+0.0.0.0 api.twitter.com
+0.0.0.0 publish.twitter.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 help.twitter.com
+0.0.0.0 mobile.twitter.com
+0.0.0.0 platform.twitter.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 support.twitter.com
+ 
