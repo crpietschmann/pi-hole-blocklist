@@ -1,7 +1,7 @@
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: SNAPCHAT
 # ----------------------------------------------------------
-# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/blocklist-social-snapchat.txt
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-snapchat.txt
 # Copyright (c) 2020 Chris Pietschmann
 # License: MIT License
 # ----------------------------------------------------------

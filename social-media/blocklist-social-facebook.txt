@@ -1,7 +1,7 @@
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: FACEBOOK
 # ----------------------------------------------------------
-# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/blocklist-social-facebook.txt
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-facebook.txt
 # Copyright (c) 2020 Chris Pietschmann
 # License: MIT License
 # ----------------------------------------------------------

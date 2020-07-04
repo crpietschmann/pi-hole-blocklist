@@ -1,7 +1,7 @@
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: TIKTOK
 # ----------------------------------------------------------
-# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/blocklist-social-tiktok.txt
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-tiktok.txt
 # Copyright (c) 2020 Chris Pietschmann
 # License: MIT License
 # ----------------------------------------------------------

@@ -1,7 +1,29 @@
 # ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: KIK
+# ----------------------------------------------------------
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/messaging/blocklist-messaging-kik.txt
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 kik.com
+ 
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: WHATSAPP
+# ----------------------------------------------------------
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/messaging/blocklist-messaging-whatsapp.txt
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 whatsapp.com
+0.0.0.0 whatsapp.net
+ 
+ 
+# ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: FACEBOOK
 # ----------------------------------------------------------
-# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/blocklist-social-facebook.txt
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-facebook.txt
 # Copyright (c) 2020 Chris Pietschmann
 # License: MIT License
 # ----------------------------------------------------------
@@ -20,7 +42,7 @@
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: INSTAGRAM
 # ----------------------------------------------------------
-# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/blocklist-social-instagram.txt
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-instagram.txt
 # Copyright (c) 2020 Chris Pietschmann
 # License: MIT License
 # ----------------------------------------------------------
@@ -33,7 +55,7 @@
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: SNAPCHAT
 # ----------------------------------------------------------
-# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/blocklist-social-snapchat.txt
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-snapchat.txt
 # Copyright (c) 2020 Chris Pietschmann
 # License: MIT License
 # ----------------------------------------------------------
@@ -48,11 +70,13 @@
 0.0.0.0 businesshelp.snapchat.com
 0.0.0.0 snapcamera.snapchat.com
 0.0.0.0 support.snapchat.com
+0.0.0.0 snapads.com
+0.0.0.0 snapkit.com
  
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: TIKTOK
 # ----------------------------------------------------------
-# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/blocklist-social-tiktok.txt
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-tiktok.txt
 # Copyright (c) 2020 Chris Pietschmann
 # License: MIT License
 # ----------------------------------------------------------
@@ -67,11 +91,29 @@
 0.0.0.0 t.tiktok.com
 0.0.0.0 activity.tiktok.com
 0.0.0.0 support.tiktok.com
+0.0.0.0 tiktokv.com
+0.0.0.0 log.tiktokv.com
+0.0.0.0 ib.tiktokv.com
+0.0.0.0 api-h2.tiktokv.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 v16m.tiktokcdn.com
+0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 v16a.tiktokcdn.com
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 v16-tiktokcdn-com.akamaized.net
+0.0.0.0 musical.ly
+0.0.0.0 mon.musical.ly
+0.0.0.0 api2-16-h2.musical.ly
+0.0.0.0 api2.musical.ly
+0.0.0.0 log2.musical.ly
+0.0.0.0 api2-21-h2.musical.ly
+0.0.0.0 musically.ly
+
  
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: TWITTER
 # ----------------------------------------------------------
-# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/blocklist-social-twitter.txt
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-twitter.txt
 # Copyright (c) 2020 Chris Pietschmann
 # License: MIT License
 # ----------------------------------------------------------
@@ -86,4 +128,16 @@
 0.0.0.0 platform.twitter.com
 0.0.0.0 ads.twitter.com
 0.0.0.0 support.twitter.com
+ 
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: WECHAT
+# ----------------------------------------------------------
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-wechat.txt
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 wechat.com
+0.0.0.0 weixin.qq.com
+ 
  

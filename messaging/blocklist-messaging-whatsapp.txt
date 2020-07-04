@@ -1,10 +1,16 @@
 # ----------------------------------------------------------
 # PI-HOLE SOCIAL BLOCKLIST: WHATSAPP
 # ----------------------------------------------------------
-# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-whatsapp.txt
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/messaging/blocklist-messaging-whatsapp.txt
 # Copyright (c) 2020 Chris Pietschmann
 # License: MIT License
 # ----------------------------------------------------------
 
 0.0.0.0 whatsapp.com
 0.0.0.0 whatsapp.net
+0.0.0.0 web.whatsapp.com
+0.0.0.0 api.whatsapp.com
+0.0.0.0 chat.whatsapp.com
+0.0.0.0 faq.whatsapp.com
+0.0.0.0 blog.whatsapp.com
+0.0.0.0 translate.whatsapp.com
