@@ -11,8 +11,8 @@ Enjoy!
 Do you wish to block specific social media services on your network? These are the blocklists for you!
 
 - All Social Media Blocklists Combined - `blocklist-social-all.txt`
-- Facebook - `blocklist-social-facebook.txt`
-- Instagram - `blocklist-social-instagram.txt`
-- Snapchat - `blocklist-social-snapchat.txt`
-- TikTok - `blocklist-social-tiktok.txt`
-- Twitter - `blocklist-social-twitter.txt`
+- Facebook - `social-media/blocklist-social-facebook.txt`
+- Instagram - `social-media/blocklist-social-instagram.txt`
+- Snapchat - `social-media/blocklist-social-snapchat.txt`
+- TikTok - `social-media/blocklist-social-tiktok.txt`
+- Twitter - `social-media/blocklist-social-twitter.txt`
