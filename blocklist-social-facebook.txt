@@ -1,6 +1,7 @@
-# Pi-hole Blocklist to block Facebook domains
 # ----------------------------------------------------------
-# Source: https://github.com/crpietschmann/pi-hole-blocklist
+# PI-HOLE SOCIAL BLOCKLIST: FACEBOOK
+# ----------------------------------------------------------
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/blocklist-social-facebook.txt
 # Copyright (c) 2020 Chris Pietschmann
 # License: MIT License
 # ----------------------------------------------------------

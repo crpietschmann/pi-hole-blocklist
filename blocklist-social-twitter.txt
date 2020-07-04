@@ -1,6 +1,7 @@
-# Pi-hole Blocklist to block Twitter domains
 # ----------------------------------------------------------
-# Source: https://github.com/crpietschmann/pi-hole-blocklist
+# PI-HOLE SOCIAL BLOCKLIST: TWITTER
+# ----------------------------------------------------------
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/blocklist-social-twitter.txt
 # Copyright (c) 2020 Chris Pietschmann
 # License: MIT License
 # ----------------------------------------------------------
