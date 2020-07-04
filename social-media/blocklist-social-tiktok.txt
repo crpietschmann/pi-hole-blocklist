@@ -16,3 +16,21 @@
 0.0.0.0 t.tiktok.com
 0.0.0.0 activity.tiktok.com
 0.0.0.0 support.tiktok.com
+0.0.0.0 tiktokv.com
+0.0.0.0 log.tiktokv.com
+0.0.0.0 ib.tiktokv.com
+0.0.0.0 api-h2.tiktokv.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 v16m.tiktokcdn.com
+0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 v16a.tiktokcdn.com
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 v16-tiktokcdn-com.akamaized.net
+0.0.0.0 musical.ly
+0.0.0.0 mon.musical.ly
+0.0.0.0 api2-16-h2.musical.ly
+0.0.0.0 api2.musical.ly
+0.0.0.0 log2.musical.ly
+0.0.0.0 api2-21-h2.musical.ly
+0.0.0.0 musically.ly
+
