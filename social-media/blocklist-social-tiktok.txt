@@ -7,6 +7,7 @@
 # ----------------------------------------------------------
 
 0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 getstarted.tiktok.com
 0.0.0.0 m.tiktok.com

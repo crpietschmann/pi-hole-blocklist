@@ -1,0 +1,14 @@
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: TUMBLR
+# ----------------------------------------------------------
+# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-tumblr.txt
+# Copyright (c) 2020 Chris Pietschmann
+# License: MIT License
+# ----------------------------------------------------------
+
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
+0.0.0.0 66.media.tumblr.com
+0.0.0.0 media.tumblr.com
+0.0.0.0 action.tumblr.com
+0.0.0.0 68.media.tumblr.com

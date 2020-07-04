@@ -7,6 +7,7 @@
 # ----------------------------------------------------------
 
 0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
 0.0.0.0 business.facebook.com
 0.0.0.0 l.facebook.com
 0.0.0.0 web.facebook.com

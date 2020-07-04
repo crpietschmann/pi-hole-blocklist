@@ -7,6 +7,7 @@
 # ----------------------------------------------------------
 
 0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
 0.0.0.0 ads.snapchat.com
 0.0.0.0 accounts.snapchat.com
 0.0.0.0 geofilters.snapchat.com
