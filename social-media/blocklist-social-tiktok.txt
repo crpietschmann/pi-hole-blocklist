@@ -20,6 +20,7 @@
 0.0.0.0 tiktokv.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 ib.tiktokv.com
+0.0.0.0 api.tiktokv.com
 0.0.0.0 api-h2.tiktokv.com
 0.0.0.0 tiktokcdn.com
 0.0.0.0 v16m.tiktokcdn.com
