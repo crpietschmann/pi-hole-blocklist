@@ -17,3 +17,6 @@
 0.0.0.0 platform.twitter.com
 0.0.0.0 ads.twitter.com
 0.0.0.0 support.twitter.com
+0.0.0.0 video.twimg.com
+0.0.0.0 abs.twimg.com
+0.0.0.0 p.twitter.com

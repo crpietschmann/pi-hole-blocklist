@@ -6,11 +6,7 @@
 # License: MIT License
 # ----------------------------------------------------------
 
-0.0.0.0 instagram.com
-0.0.0.0 www.instagram.com
-0.0.0.0 i.instagram.com
-0.0.0.0 l.instagram.com
-0.0.0.0 help.instagram.com
-0.0.0.0 business.instagram.com
-0.0.0.0 scontent-msp1-1.cdninstagram.com
-0.0.0.0 instagram.c10r.facebook.com
+0.0.0.0 pinterest.com
+0.0.0.0 ct.pinterest.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 ads.pinterest.com

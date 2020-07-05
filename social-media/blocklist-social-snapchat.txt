@@ -9,6 +9,7 @@
 0.0.0.0 snapchat.com
 0.0.0.0 www.snapchat.com
 0.0.0.0 ads.snapchat.com
+0.0.0.0 adsapi.snapchat.com
 0.0.0.0 accounts.snapchat.com
 0.0.0.0 geofilters.snapchat.com
 0.0.0.0 forbusiness.snapchat.com
@@ -19,3 +20,4 @@
 0.0.0.0 support.snapchat.com
 0.0.0.0 snapads.com
 0.0.0.0 snapkit.com
+0.0.0.0 app-analytics.snapchat.com
